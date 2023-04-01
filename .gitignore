@@ -7,3 +7,5 @@
 
 # configurations
 /configs
+/frontend/configs
+# /backend/configs
