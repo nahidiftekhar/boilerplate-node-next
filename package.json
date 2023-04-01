@@ -1,0 +1,14 @@
+{
+  "name": "fullstack-boilerplate-nodejs-nextjs",
+  "version": "1.0.0",
+  "description": "fullstack-boilerplate-nodejs-nextjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nahid Iftekhar",
+  "license": "MIT",
+  "dependencies": {
+    "concurrently": "^8.0.1"
+  }
+}
