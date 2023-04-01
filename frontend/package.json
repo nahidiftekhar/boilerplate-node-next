@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "node server.js",
+    "dev": "next dev",
     "build": "next build",
     "export": "next build && next export",
     "start": "NODE_ENV=production node server.js",
@@ -24,11 +24,11 @@
     "react-phone-number-input": "^3.2.19",
     "react-share": "^4.4.1",
     "react-spinners": "^0.13.8",
-    "sass": "^1.58.3",
     "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "eslint": "^8.34.0",
+    "sass": "^1.58.3",
     "eslint-config-next": "^13.1.6"
   }
 }
