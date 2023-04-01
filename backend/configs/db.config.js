@@ -1,9 +1,9 @@
 const dbConfig = {
     host: "localhost",
     port: 5432,
-    user: "username",
-    password: "password",
-    database: "db_name",
+    user: "smarttaps",
+    password: "beautifulcards",
+    database: "smarttaps_db",
 
     dialect: "postgres",
     pool: {
